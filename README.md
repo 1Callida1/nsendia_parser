@@ -18,7 +18,7 @@ For the starting work python 3 is required.
     PROXY_PASSWORD= "Proxy password"
     PROXY_TYPE="http or https"
 ```
-2. download `[chromedriver](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/)` and put it into the path
+2. download [chromedriver](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/) and put it into the path
 
 ## Starting project
 ```
