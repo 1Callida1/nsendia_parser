@@ -4,7 +4,7 @@ ____
 
 The parser contains human imitation and fake activity.
 
-Parser save data into __TotalCost.csv with format: name:final_price
+Parser save data into __TotalCost.csv__ with format: name:final_price
 
 For the starting work python 3 is required.
 
@@ -12,13 +12,13 @@ For the starting work python 3 is required.
 
 1. fill in the proxy data in **.env** file
 ```
-    PROXY_IP= "your_proxy_ip"
-    PROXY_PORT= "your_proxy_port"
-    PROXY_LOGIN= "your_proxy_login"
-    PROXY_PASSWORD= "your_proxy_password"
+    PROXY_IP= "Proxy ip"
+    PROXY_PORT= "Proxy port"
+    PROXY_LOGIN= "Proxy login"
+    PROXY_PASSWORD= "Proxy password"
     PROXY_TYPE="http or https"
 ```
-2. download chromedriver 97.0.4692.71 and put it into the path
+2. download `[chromedriver](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/)` and put it into the path
 
 ## Starting project
 ```
